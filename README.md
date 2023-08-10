@@ -21,7 +21,7 @@ My journey in software development is an ongoing adventure. Being new to program
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow developers, enthusiasts, and industry professionals. Whether you're interested in discussing tech trends or exploring potential collaborations, feel free to reach out to me on [LinkedIn](www.linkedin.com/in/joseph-gosling) or on Discord: @fiiishh.
+I'm always open to connecting with fellow developers, enthusiasts, and industry professionals. Whether you're interested in discussing tech trends or exploring potential collaborations, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joseph-gosling/) or on Discord: @fiiishh.
 .
 
 Thank you for visiting my GitHub profile!
