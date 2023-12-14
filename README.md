@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a dedicated Computer Science student and an as
 ## 🛠️ Technical Proficiencies
 
 - **Languages:** Java, C#, Python, JavaScript
-- **Web Technologies:** HTML, CSS, JavaScript, Node.js
+- **Web Technologies:** HTML, CSS, JavaScript, Node.js, React
 - **Databases:** MongoDB, SQL
 - **Frameworks:** .NET, Express.js
 - **Desktop Applications:** WPF (Windows Presentation Foundation)
